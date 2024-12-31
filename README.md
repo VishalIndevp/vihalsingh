@@ -12,7 +12,7 @@
   - Python
   - Excel
   - Power BI
-  - Basic Statistics
+  - Statistics
   - Data Visualization
   
 - **Currently Exploring:**
